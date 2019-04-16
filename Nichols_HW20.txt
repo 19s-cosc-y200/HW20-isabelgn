@@ -1,0 +1,143 @@
+/*--Project Name:Question #1 (HW20)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+#idexample{
+    float: left;
+    background-color: #FFBO77
+    font-family: Verdana;
+    padding:20px;
+}
+
+
+<!DocType html>
+<html lang="en">
+<head>
+<title>Question #1 </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pacific.css">
+</head>
+<!--
+Project Name: Question #1 (HW20)
+Author: Isabel Nichols
+Date Last Modified: March 16, 2019
+-->
+<body>
+    
+    <header>
+    <h1> Question #1</h1>
+     </header>   
+    
+<main id="idexample">
+    
+  <h2> Question #1</h2>  
+    <p>here is a paragraph to go with queestion #1</p>
+    
+</main>
+  <footer>
+     <br>
+            Copyright © 2018 quesiton #1<br> 
+            <a href="ignichol@my.loyno.edu">ignichol@my.loyno.edu</a>
+          
+    </footer>    
+          
+    </div>
+</body>
+</html>
+
+
+/*--Project Name:Question #2 (HW20)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+.classexample{
+    text-decoration-style: dotted;
+    text-align: center;
+    color: blue;
+}
+
+
+<!DocType html>
+<html lang="en">
+<head>
+<title>Question #2 </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pacific.css">
+</head>
+<!--
+Project Name: Question #2 (HW20)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019
+-->
+<body>
+    
+    <header>
+    <h1> Question #2</h1>
+     </header>   
+    
+<main>
+    
+  <h2 class="classexample"> Question #2</h2>  
+    <p>here is a paragraph to go with queestion #2</p>
+    
+</main>
+  <footer>
+     <br>
+            Copyright © 2018 quesiton #2<br> 
+            <a href="ignichol@my.loyno.edu">ignichol@my.loyno.edu</a>
+          
+    </footer>    
+          
+    </div>
+</body>
+</html>
+
+/*--Project Name:Question #3 (HW20)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019*/
+#idabsolute{
+    position: absolute;
+    left: 20px;
+    top: 40px;
+    right:40px;
+    border: solid;
+    background-color: #D3D3D3;
+}
+
+
+<!DocType html>
+<html lang="en">
+<head>
+<title>Question #3 </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pacific.css">
+</head>
+<!--
+Project Name: Question #3 (HW20)
+Author: Isabel Nichols
+Date Last Modified: April 16, 2019
+-->
+<body id="idabsolute">
+    
+    <header>
+    <h1> Question #3</h1>
+     </header>   
+    
+<main >
+    
+  <h2 > Question #3</h2>  
+    <p>here is a paragraph to go with queestion #3</p>
+    
+</main>
+  <footer>
+     <br>
+            Copyright © 2018 quesiton #3<br> 
+            <a href="ignichol@my.loyno.edu">ignichol@my.loyno.edu</a>
+          
+    </footer>    
+          
+    </div>
+</body>
+</html>
+
+
+
+
